@@ -1,0 +1,6 @@
+#this file was created manually
+gob*
+*.co*
+*_py*
+!_pyc*
+*.pyc
